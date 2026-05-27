@@ -10,6 +10,6 @@
  ghwr
  hg jh w[rouh ouh uwhrg
  pi 
- wou ge
- iw
- pghi ]
+
+
+after changing any file you have to commit the changes to local repository 
